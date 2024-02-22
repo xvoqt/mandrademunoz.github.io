@@ -1,6 +1,3 @@
 # mandrademunoz.github.io
 
-One fun fact: I love coconut. Here is a coconut for you.
-
-<img width="481" alt="Screenshot 2023-09-28 at 3 52 04 PM" src="https://github.com/xvoqt/mandrademunoz.github.io/assets/140859836/5eef986c-6b9a-47f3-b8d3-ca065640948d">
-
+Hi, I’m Melanie! I’m a Chancellor’s Science Scholar in the 11th Cohort at UNC Chapel Hill. I graduated high school with an Associate’s degree in Biological Sciences while conducting research at the Afonin Lab at UNC Charlotte, in addition to being a published author. I’m now pursuing a Bachelor’s degree as a double major in Neuroscience and Computer Science with a minor in Data Science. I serve as the Chief People Officer in App Team Carolina while also conducting research in the Kash lab, which is focused on understanding the molecular and physiological events that underlie pathological behavior. Scroll below to take a look at more of what I do!
