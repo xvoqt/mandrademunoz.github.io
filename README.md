@@ -1,3 +1,13 @@
-# mandrademunoz.github.io
+# Hey, que tal?
 
-Hi, I’m Melanie! I’m a Chancellor’s Science Scholar in the 11th Cohort at UNC Chapel Hill. I graduated high school with an Associate’s degree in Biological Sciences while conducting research at the Afonin Lab at UNC Charlotte, in addition to being a published author. I’m now pursuing a Bachelor’s degree as a double major in Neuroscience and Computer Science with a minor in Data Science. I serve as the Chief People Officer in App Team Carolina while also conducting research in the Kash lab, which is focused on understanding the molecular and physiological events that underlie pathological behavior. Scroll below to take a look at more of what I do!
+🦕 I'm Mel
+
+👩🏽‍💻 I'm a Chancellor's Science Scholar at UNC Chapel Hill, double majoring in Neuroscience and Computer Science.
+
+🧠 I'm passionate about integration of Software Development into Medical Practices, Medicine, and, Theraputics.
+
+🫂 As Chief People Officer at App Team Carolina, I'm devoted to building a community where everyone can learn to code.
+
+🫀 All of my projects come from the heart,
+
+💗 With a goal to increase accessiblity and inclusivity for all to experience and enjoy.
