@@ -1,4 +1,4 @@
-# Hey, que tal?
+# Hi!
 
 🦕 I'm Mel
 
